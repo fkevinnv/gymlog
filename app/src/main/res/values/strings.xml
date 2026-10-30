@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GymLog</string>
+
+    <!-- Comunes -->
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="borrar">Borrar</string>
+    <string name="volver">Volver</string>
+    <string name="error_nombre_vacio">Escribe un nombre</string>
+
+    <!-- Pantalla principal -->
+    <string name="subtitulo_principal">Elige una rutina y a entrenar</string>
+    <string name="nueva_rutina">Nueva rutina</string>
+    <string name="nombre_rutina">Nombre de la rutina</string>
+    <string name="sin_rutinas_titulo">Todavía no tienes rutinas</string>
+    <string name="sin_rutinas_texto">Pulsa el botón para crear la primera</string>
+    <string name="confirmar_borrar_rutina">¿Borrar la rutina «%1$s» con todos sus días y ejercicios?</string>
+    <plurals name="num_dias">
+        <item quantity="one">%d día</item>
+        <item quantity="other">%d días</item>
+    </plurals>
+
+    <!-- Pantalla de rutina -->
+    <string name="subtitulo_rutina">Elige un día y empieza</string>
+    <string name="nuevo_dia">Nuevo día</string>
+    <string name="nombre_dia">Nombre del día (ej. Pecho y tríceps)</string>
+    <string name="sin_dias_titulo">Esta rutina no tiene días</string>
+    <string name="sin_dias_texto">Añade el primero con el botón de abajo</string>
+    <string name="sin_ejercicios">Aún no hay ejercicios en este día</string>
+    <string name="anadir_ejercicio">Ejercicio</string>
+    <string name="empezar">Empezar</string>
+    <string name="aviso_sin_ejercicios">Añade al menos un ejercicio para empezar</string>
+    <string name="confirmar_borrar_dia">¿Borrar el día «%1$s» y sus ejercicios?</string>
+    <string name="confirmar_borrar_ejercicio">¿Quitar «%1$s» de este día?</string>
+    <string name="chip_ejercicio">%1$s · %2$d×</string>
+    <plurals name="num_ejercicios">
+        <item quantity="one">%d ejercicio</item>
+        <item quantity="other">%d ejercicios</item>
+    </plurals>
+
+    <!-- Formulario de ejercicio -->
+    <string name="nuevo_ejercicio">Nuevo ejercicio</string>
+    <string name="nombre_ejercicio">Nombre del ejercicio</string>
+    <string name="series_objetivo">Series</string>
+    <string name="descanso_segundos">Descanso entre series (segundos)</string>
+
+    <!-- Entrenamiento en vivo -->
+    <string name="contador_ejercicios">%1$d / %2$d</string>
+    <string name="serie_de">Serie %1$d de %2$d</string>
+    <string name="objetivo_cumplido">Objetivo cumplido</string>
+    <string name="ultima_vez">Última vez: %1$s kg × %2$d</string>
+    <string name="primera_vez">Primera vez con este ejercicio</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="repeticiones">Repeticiones</string>
+    <string name="menos">−</string>
+    <string name="mas">+</string>
+    <string name="registrar_serie">Registrar serie</string>
+    <string name="error_reps">Indica las repeticiones</string>
+    <string name="descanso">Descanso</string>
+    <string name="mas_quince">+15 s</string>
+    <string name="saltar_descanso">Saltar</string>
+    <string name="descanso_terminado">A por la siguiente serie</string>
+    <string name="series_de_hoy">Series de hoy</string>
+    <string name="sin_series_hoy">Aún no has registrado ninguna serie</string>
+    <string name="detalle_serie">%1$s kg × %2$d reps</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="todo_completado">Entrenamiento completado. Pulsa Finalizar</string>
+    <string name="entrenamiento_terminado">Entrenamiento terminado</string>
+    <string name="resumen">Series: %1$d\nVolumen total: %2$s kg\nDuración: %3$d min</string>
+    <string name="cerrar">Cerrar</string>
+</resources>

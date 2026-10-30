@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="fondo">#0F0F1A</color>
+    <color name="superficie">#1B1B2B</color>
+    <color name="superficie_alta">#2A2A40</color>
+    <color name="primario">#8E5CFF</color>
+    <color name="secundario">#FF4E8A</color>
+    <color name="acento">#FFB703</color>
+    <color name="exito">#2ECC71</color>
+    <color name="texto">#FFFFFF</color>
+    <color name="texto_suave">#B3B3C6</color>
+    <color name="degradado_inicio">#6A11CB</color>
+    <color name="degradado_fin">#FF4E8A</color>
+    <color name="blanco_translucido">#55FFFFFF</color>
+    <color name="blanco_suave">#E6FFFFFF</color>
+</resources>

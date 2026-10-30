@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GymLog" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primario</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secundario</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/superficie</item>
+        <item name="android:windowBackground">@color/fondo</item>
+        <item name="android:statusBarColor">@color/degradado_inicio</item>
+        <item name="android:navigationBarColor">@color/fondo</item>
+    </style>
+</resources>
