@@ -5,6 +5,7 @@ plugins {
 android {
     namespace 'com.gymlog.app'
     compileSdk 34
+    
 
     defaultConfig {
         applicationId "com.gymlog.app"
